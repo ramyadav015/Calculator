@@ -1,12 +1,6 @@
 # Calculator
 A basic arithmetic calculator built with Python and Tkinter — a hands-on project to practice GUI development and Python fundamentals.
 
-# 🧮 Python Calculator
-
-A simple desktop calculator application built using Python and Tkinter.
-This project was created to strengthen Python programming skills,
-with a focus on building graphical user interfaces (GUI).
-
 ## Features
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 - Clean and interactive GUI built with Tkinter
